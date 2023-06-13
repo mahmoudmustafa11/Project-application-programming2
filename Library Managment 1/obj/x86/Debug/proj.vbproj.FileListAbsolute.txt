@@ -1,0 +1,11 @@
+C:\Users\2M\AppData\Local\Temporary Projects\proj\obj\x86\Debug\proj.Form1.resources
+C:\Users\2M\AppData\Local\Temporary Projects\proj\obj\x86\Debug\proj.Form2.resources
+C:\Users\2M\AppData\Local\Temporary Projects\proj\obj\x86\Debug\proj.Form3.resources
+C:\Users\2M\AppData\Local\Temporary Projects\proj\obj\x86\Debug\proj.Resources.resources
+C:\Users\2M\AppData\Local\Temporary Projects\proj\obj\x86\Debug\proj.vbproj.GenerateResource.Cache
+C:\Users\2M\AppData\Local\Temporary Projects\proj\bin\Debug\proj.exe
+C:\Users\2M\AppData\Local\Temporary Projects\proj\bin\Debug\proj.pdb
+C:\Users\2M\AppData\Local\Temporary Projects\proj\bin\Debug\proj.xml
+C:\Users\2M\AppData\Local\Temporary Projects\proj\obj\x86\Debug\proj.exe
+C:\Users\2M\AppData\Local\Temporary Projects\proj\obj\x86\Debug\proj.xml
+C:\Users\2M\AppData\Local\Temporary Projects\proj\obj\x86\Debug\proj.pdb

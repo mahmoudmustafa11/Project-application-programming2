@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Library Managment 1", "Library Managment 1\Library Managment 1.vbproj", "{75EFC5F5-05AC-4B96-A769-BF4B0213758A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75EFC5F5-05AC-4B96-A769-BF4B0213758A}.Debug|x86.ActiveCfg = Debug|x86
+		{75EFC5F5-05AC-4B96-A769-BF4B0213758A}.Debug|x86.Build.0 = Debug|x86
+		{75EFC5F5-05AC-4B96-A769-BF4B0213758A}.Release|x86.ActiveCfg = Release|x86
+		{75EFC5F5-05AC-4B96-A769-BF4B0213758A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
